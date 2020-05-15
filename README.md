@@ -8,7 +8,7 @@ Solution to 31 days may leet-coding challenge
 6) Majority Element
 7) Cousins in Binary Tree
 8) Check if it is astraight line
-9)Valid perfect Square
+9) Valid perfect Square
 10) Fill the town Judge
-11)Flood Fill
+11) Flood Fill
 
