@@ -11,4 +11,9 @@ Solution to 31 days may leet-coding challenge
 9) Valid perfect Square
 10) Fill the town Judge
 11) Flood Fill
+12) Single element in a sorted array
+13) Remove K digits
+14) Implement Trie
+15) Maximum Sum Circular Sub Array
+16) Odd Even Linked List)
 
