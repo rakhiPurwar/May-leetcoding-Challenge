@@ -17,4 +17,6 @@ Solution to 31 days may leet-coding challenge
 15) Maximum Sum Circular Sub Array
 16) Odd Even Linked List
 17) Find All anagrams in a string
+18) Permutation in a String
+19) Online Stock Plan
 
