@@ -1,5 +1,5 @@
 # May-leetcoding-Challenge
-Solution to 31 days may leet-coding challenge
+Solutions to 31 days may leet-coding challenge
 1) First Bad Version  
 2) Jewels and Stones  
 3) Ransom Note  
@@ -19,4 +19,4 @@ Solution to 31 days may leet-coding challenge
 17) Find All anagrams in a string
 18) Permutation in a String
 19) Online Stock Plan
-
+#[ THIS REPOSITORY IS IN PROGRESS]
